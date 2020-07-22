@@ -1,0 +1,48 @@
+[
+    {
+        "id": "registation",
+        "title": "Manage registration",
+        "sousTitle": "icon icon-primary",
+        "position": "left",
+        "description" : "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+        "pathImage" : {
+            "tableImag" : "table.png",
+            "shareBtnImg" : "success-btn.png",
+            "colouredCardBtnImg" : "card-btn.png",
+            "colouredCardImg" : "card-orange.png",
+            "linkedinBtnImg" : "dribbble-btn.png",
+            "path3" : "path3.png"
+        }
+    },
+    {
+        "id": "competiton",
+        "title": "Build competition",
+        "sousTitle": "icon icon-warning",
+        "position": "right",
+        "description" : "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+        "pathImage" : {
+            "tableImag" : "table.png",
+            "shareBtnImg" : "success-btn.png",
+            "colouredCardBtnImg" : "card-btn.png",
+            "colouredCardImg" : "card-orange.png",
+            "linkedinBtnImg" : "dribbble-btn.png",
+            "path3" : "path3.png"
+        }
+    },
+    {
+        "id": "information",
+        "title": "Make live information",
+        "sousTitle": "icon icon-success",
+        "position": "left",
+        "description" : "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+        "pathImage" : {
+            "tableImag" : "table.png",
+            "shareBtnImg" : "success-btn.png",
+            "colouredCardBtnImg" : "card-btn.png",
+            "colouredCardImg" : "card-orange.png",
+            "linkedinBtnImg" : "dribbble-btn.png",
+            "path3" : "path3.png"
+        }
+    }
+]
+

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "firtName": "Andres",
+        "name": "Gomes",
+        "email": "test@test.com",
+        "password": "admin",
+        "role": "admin",
+        "token": "1111111"
+    },
+    {
+        "id": 2,
+        "firtName": "Emma",
+        "name": "Gomes",
+        "email": "test2@test2.com",
+        "password": "admin",
+        "role": "admin",
+        "token": "1111111"
+    }
+]

@@ -1,0 +1,77 @@
+{
+    "header" : {
+        "title" : "Pick the best plan for you",
+        "description": "You have Free Unlimited Updates and Premium Support on each package."
+    },
+    "card" : [
+        {
+            "id": "1",
+            "badge": "Starter",
+            "price": "22",
+            "informations": [
+                {
+                    "iconClass": "icon-check-2",
+                    "info": "1000 MB"
+                },
+                {
+                    "iconClass": "icon-email-85",
+                    "info": "3 email"
+                },
+                {
+                    "iconClass": "icon-chart-bar-32",
+                    "info": "5 Databases"
+                },
+                {
+                    "iconClass": "icon-alert-circle-exc",
+                    "info": "No Support"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "badge": "pro",
+            "price": "44",
+            "informations": [
+                {
+                    "iconClass": "icon-check-2",
+                    "info": "1000 MB"
+                },
+                {
+                    "iconClass": "icon-email-85",
+                    "info": "3 email"
+                },
+                {
+                    "iconClass": "icon-chart-bar-32",
+                    "info": "5 Databases"
+                },
+                {
+                    "iconClass": "icon-alert-circle-exc",
+                    "info": "No Support"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "badge": "entreprise",
+            "price": "66",
+            "informations": [
+                {
+                    "iconClass": "icon-check-2",
+                    "info": "1000 MB"
+                },
+                {
+                    "iconClass": "icon-email-85",
+                    "info": "3 email"
+                },
+                {
+                    "iconClass": "icon-chart-bar-32",
+                    "info": "5 Databases"
+                },
+                {
+                    "iconClass": "icon-alert-circle-exc",
+                    "info": "No Support"
+                }
+            ]
+        }
+    ]
+}
